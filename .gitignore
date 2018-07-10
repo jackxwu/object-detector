@@ -1,0 +1,20 @@
+!.gitignore
+!.gitmodules
+
+# Java
+*.class
+
+# Intellij
+*.iml
+*.iws
+
+# Gradle
+.gradle/
+build/
+classes/
+
+.idea/
+log/
+tmp/
+/out/
+
