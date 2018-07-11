@@ -12,6 +12,8 @@
 .gradle/
 build/
 classes/
+gradleBuild/
+local.properties
 
 .idea/
 log/

@@ -1,4 +1,4 @@
-// This file provides basic support for building the TensorFlow demo
+// This file provides basic support for building the project
 // in Android Studio with Gradle.
 //
 // Note that Bazel is still used by default to compile the native libs,
