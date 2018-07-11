@@ -13,9 +13,9 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ==============================================================================*/
 
-package org.tensorflow.demo;
+package ai.smart.detection;
 
-import org.tensorflow.demo.Classifier.Recognition;
+import ai.smart.detection.Classifier.Recognition;
 
 import java.util.List;
 

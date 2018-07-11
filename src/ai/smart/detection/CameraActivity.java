@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tensorflow.demo;
+package ai.smart.detection;
 
 import android.Manifest;
 import android.app.Activity;
@@ -41,9 +41,9 @@ import android.view.Surface;
 import android.view.WindowManager;
 import android.widget.Toast;
 import java.nio.ByteBuffer;
-import org.tensorflow.demo.env.ImageUtils;
-import org.tensorflow.demo.env.Logger;
-import org.tensorflow.demo.R; // Explicit import needed for internal Google builds.
+import ai.smart.detection.env.ImageUtils;
+import ai.smart.detection.env.Logger;
+import ai.smart.detection.R; // Explicit import needed for internal Google builds.
 
 public abstract class CameraActivity extends Activity
     implements OnImageAvailableListener, Camera.PreviewCallback {
